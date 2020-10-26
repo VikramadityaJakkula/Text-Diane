@@ -1,0 +1,346 @@
+Advertisement
+A notice or announcement in a public medium promoting a product, service, or event or publicizing a job vacancy
+
+Advertising or advertizing
+Is a form of communication for marketingand used to encourage, persuade, or manipulate an audience (viewers, readers or listeners; sometimes a specific group) to continue or take some new action. Most commonly, the desired result is to drive consumer behavior with respect to a commercial offering, although political and ideological advertising is also common. This type of work belongs to a category called affective labor.
+Commercial advertisers often seek to generate increased consumption of their products or services through "branding," which involves associating a product name or image with certain qualities in the minds of consumers. Non-commercial advertisers who spend money to advertise items other than a consumer product or service include political parties, interest groups, religious organizations and governmental agencies. Nonprofit organizations may rely on free modes of persuasion, such as a public service announcement (PSA).
+Modern advertising was created with the innovative techniques introduced with tobacco advertising in the 1920s, most significantly with the campaigns of Edward Bernays, which is often considered the founder of modern, Madison Avenue advertising.
+
+http://en.wikipedia.org/wiki/Advertising
+
+Brand:
+Assign a brand name to/Mark with a branding iron
+
+Branding:
+⦁	Making a mark by ⦁	charring
+Wood branding, permanently marking, by way of heat, wood (also: plastic, cork, leather, etc.)
+Livestock branding, the marking of animals to indicate ownership
+Human branding, as body modification or punishment
+Branding (BDSM), bonding of the partners and marking of a submissive
+Vehicle title branding, a permanent designation indicating that a vehicle has been "written off"
+Brand, a name, logo, slogan, and/or design scheme associated with a product or service
+Brand management, the application of marketing techniques to a specific product, product line, or brand
+Employer branding, the application of brand management to recruitment marketing and internal brand engagement
+Nation branding, the application of marketing techniques for the advancement of a country
+Place branding, the application of marketing techniques for the advancement of country subdivisions
+Personal branding, people and their careers marketed as brands
+Co-branding, associates a single product or service with more than one brand name
+Branding agency, a type of marketing agency which specializes in creating brands
+Faith branding, the application of marketing techniques to religious institutions or individuals
+http://en.wikipedia.org/wiki/Branding
+Branding knowledge:
+ Brand building beyond product and service brands
+
+⦁	Is a senior lecturer at the University of St Gallen and head of the Competence Centre enterprise knowledge medium, where he is conducting research on knowledge in organisations. He teaches in the graduate and postgraduate programmes of the university.
+⦁	Is a senior lecturer and head of the Centre for Corporate Communications at the University of St Gallen. The centre conducts research with various partner companies on issues relating to financial communication, corporate reputation and the impact of new media on corporate communication processes.
+
+http://www.palgrave-journals.com/bm/journal/v8/n6/abs/2540043a.html
+
+The Right Way to Brand Knowledge Management Initiatives
+Earlier this month, I had the pleasure of sitting in on the first site visit for APQC’s current Collaborative Benchmarking study, Putting Knowledge in the Flow of Work for Real Results. The site visit featured representatives from a large, global organization talking about how their firm encourages employees to share knowledge and embeds collaboration in processes, workflows, and day-to-day operations.
+
+One of the things that struck me about the organization’s strategy was the way each of its KM initiatives has its own clever branding. For example, a program that captures stories from employees is represented with a butterfly logo because it enables the cross-pollination of ideas and information. The organization also relies on fun activities to promote the transfer of knowledge. Many KM approaches involve employees forming teams and competing to generate innovations and solutions. The most unique aspect of the organization’s program is that it uses theater, asking employees to share knowledge by writing and performing skits about important issues.
+
+While some of the organization’s approaches might be uniquely adapted to its culture, many more have broad appeal and align with what APQC has seen at other organizations. In our last study, Engagement and Participation for Knowledge Sharing and Collaboration, one of the findings was that best-practice organizations brand knowledge sharing approaches and tools creatively, using appealing language and activities to boost employee interest. I just published a new article, Brand Knowledge-Sharing Approaches and Tools Creatively, describing how ConocoPhillips, Baker Hughes, Fluor, and the Federal Reserve Bank of Cleveland use branding, contests, and games to generate excitement around KM. We also have an article from 2010 called Making KM Fun that touches on these issues
+
+Knowledge management (KM) is serious business. The ability to secure enduring value from intellectual assets determines winners and losers in the marketplace. If something is so critical to success, then why does it need to be fun? Because fun can make your KM efforts thrive.
+This white paper, co-authored by APQC and participants in APQC's 2009-2010 KM Advanced Working Group, discusses strategies for injecting creativity, experimentation, play, and innovation into KM communications and initiatives.
+http://www.apqc.org/blog/right-way-brand-knowledge-management-initiatives 
+
+BRANDING KNOWLEDGE
+(Brand Building Beyond Product and Service Brands
+Martin J. Eppler and Markus Will
+Address: mcm institute for media and communications management, University of St. Gallen, Mueller-Friedberg-Str.8, CH-9000 St. Gallen, Switzerland; Tel +41 71 224 2407)
+
+INTRODUCTION
+Branding issues often reside within the context of product branding where a – typically consumer good – mass product has to be marketed (externally and internally) through a clearly recognizable visual and verbal identity – the brand. Although there is a growing body of literature on the theory of branding, on strategic brand management and on branding processes, corporate and service branding are relatively new dimensions in branding literature and practice alike. In particular, we refer to Gregory, 1997 (1) and Ind, 1997 (2), where corporate branding is closely related to reputation management (3), and where a company’s name is treated as a brand in its own right (typically targeted not only at consumers, but also at current and potential shareholders and at the greater public) in addition to existing product brands. Furthermore, we view the aim of service branding as to bundle a set of services under one brand in order to be recognized by current and potential clients as an integrated and unique offer.
+
+In this article, we will argue that this branding triad of corporate, product, and service brand is about to be extended by one other type of brand – the knowledge brand. We will argue (and illustrate through short cases) that problem solving capabilities, methodologies, experiences, and solution skills need to be branded differently than traditional products, services, or corporations. We will show that – in a time when companies compete for and through knowledge – the branding of that knowledge becomes a crucial – and strategic – marketing activity. This is especially true in times where companies seek to not only sell their products and services, but also capitalize on the marketing of their accumulated knowledge. Prime examples of this trend are Hewlett Packard, Siemens, Lotus, and IBM. These companies have initiated professional services or consulting branches in addition to their product sales branches.
+
+In order to achieve these aims, we will start by focusing on the main characteristics of a knowledge brand, then stress four core functions of a knowledge brand, as well as describe the process of branding knowledge. To conclude the article, we will discuss short cases to illustrate our approach with real-life examples.
+
+CHARACTERISTICS OF KNOWLEDGE IN THE BRANDING CONTEXT
+There are specific characteristics of knowledge that affect the branding process and make a differentiated approach necessary that significantly differs from traditional product or service branding. Below, we describe the main characteristics of knowledge that need to be taken into account in marketing know-how as a brand.
+
+Knowledge is neither a product nor a service. Although there is a wide variety of definitions of what a "product” is, knowledge does not qualify as a simple, standardised solution to a given need. Keller, 1998, p. 3 (4), referring to Kotler says that "a product is everything that can be offered to a market for attention, acquisition, use or consumption that might satisfy a need or want. Thus, a product may be a physical good, service, retail store, person, organisation, place or idea." In this broad sense, almost everything may qualify as a product, except for knowledge, where the actual need is often implicit and not easily recognised by the potential consumer. In a consulting engagement, for example, the consultant often has to help a client articulate his or her need by comparing the client’s situation to the consultant’s distinct set of competencies. Knowledge can be defined as "a strategic resource which consists of the skills and capabilities which individuals, teams, and organizations use for problem solving" (5). Knowledge (for example in the case of a due diligence study) remains with the clients even after the relationship with their “supplier” expires. In so far, it is more a product-orientated relationship, since as with products, there is a change of ownership. But from a different perspective, knowledge intensive solutions usually develop from a service orientated relationship with the client, since the handling of the offered analytic tools must be taught to clients in the first place. But differently from a service, those tools remain with the client and with the producer after the market transaction. Thus, selling and consequently branding knowledge has to go beyond simple product or service brands. It has to make this two-fold nature of knowledge (originating as a service and then mutating into an independent product) explicit.
+
+Branding in this context is neither a classic marketing nor a standard communication process alone. There is a wide variety of meanings for branding in the context of marketing. In our understanding of marketing, we refer to Aaker/Keller, 1998, p. 357 (6): "Corporate Marketing activities as publicly visible programs and actions that companies initiate and that are not identified with a single product or brand sold by the company." In this context, we omit implications corporate culture could have for the branding process, since – as will be shown below– the article focuses on the process of communicating a knowledge brand externally rather than on the elements or constituencies of a brand. Branding as a perspective on marketing must not only focus on advertising, sponsoring or design (traditional marketing domains), but also, for example, on press, on investors, on lobbyists and on employees as well as on clients (integrated communication aspects). In particular, the multipliers in the general public and in the financial and political spheres are key to success for an integrated branding concept, which aims to catch the attention of the relevant target groups. For Kapferer, 1998, p. 46 (7), the only effective approach to branding is a holistic one: "Branding means much more than just giving a brand name and signaling to the outside world that such a product or service has been stamped with the mark and imprint of an organization. Brands are a direct consequence of the strategy of market segmentation and product differentiation." A knowledge brand strategy must therefore be derived from the competence strategy of a company, e.g., how its various skills, experiences, and methodologies can be bundled, used for client benefits, and coherently developed.
+
+In consequence, branding knowledge stresses a different type of offer (as has been shown a hybrid between product and service) with an integrated marketing & communication concept, i.e. branding. Therefore, branding knowledge must take the specificities of knowledge (i.e., its intangible and complex nature) and the holistics of branding (i.e. its various target groups and forms of expression) into consideration. The concept of branding knowledge benefits from both product and service branding, but is more closely related to corporate branding and reputation management. Gregory, 1997 (1) views corporate branding as "a planned inclusive strategy that sets communications standards and policies for the benefit of the whole entity."
+
+THE RELATIONSHIP BETWEEN KNOWLEDGE BRANDS AND CORPORATE BRANDS
+Why is branding knowledge, in our view, most closely related to corporate branding? In contrast to service branding, which focuses almost solely on clients, corporate branding takes both current and potential shareholders and employees into consideration. All of these most important stakeholders are indispensable for branding knowledge, since it is most certainly more an intangible than a tangible good. Hence, as Mottram, 1998 (8), writes, "in today’s markets, companies increasingly compete on the basis of intangible factors and the reputation of the corporation itself is often the most valuable and most misunderstood intangible of all." Thus, knowledge is crucial for the goodwill of a corporation. Kapferer (7) points out that the term goodwill - as difference between market value and book value – requires at least these three stakeholders: "While the investors are willing to pay for goodwill, the employees and their relationships to clients are actually the creators of goodwill." The goal of branding a company’s knowledge is exactly that: to materialize and differentiate this type of goodwill in order to generate a competent reputation.
+
+Stressing knowledge as a brand in its own right can avoid the likelihood of becoming a commodity as a corporation (which would subsequently mean to sink into a lower margin business). In other words: If a corporate brand is connected to various bundled competencies (such as unparalleled market research or in-depth CEO-surveys), it is usually branded with the corporate name (such as Merrill Lynch Research or PricewaterhouseCoopers’ Straight from the CEO magazine, or its Global CEO Surveys). It is these relationships to either companies or CEOs, which put Merrill Lynch or PricewaterhouseCoopers in the position to develop such knowledge. Thus, a knowledge brand requires the reputation of a corporate brand as a prerequisite, in order to be able to draw expertise and insights from clients, other companies or CEOs or in order to transfer knowledge to them. But also in the other direction, as in the case of a famous methodology (e.g., Renaissance Inc.’s Balanced Scorecard concept) or a knowledge product, like an analytic company journal (e.g., The McKinsey Quarterly), the knowledge brand can contribute to the reputation of a corporate brand. A further interdependence between the knowledge brand and the corporate brand lies in the adequate use of sub-brands and umbrella brands, where a knowledge brand is divided into various subbrands (e.g., Arthur Andersen’s Knowledge Space that is divided into other sections such as the Global Best Practices, see www.knowledgespace.com). In this case, the corporate brand is used to devise an intellectual brand architecture that spells out the relationship between various knowledge brands. All of these relationships can be laid out in a knowledge brand architecture. As we see it, brand architectures derive from respective brand strategies or strategic brand management (for example: Kapferer 1998 (7)) or even brand leadership (for example: Aaker/Joachimstaler 2000, (10)). These strategic brand (leadership) decisions are often based on the question of how to best capitalize on the value of a brand. It could lead to extensions (Kapferer 2000, (11)) or to the leverage of a corporate brand (as Aaker, 1996, pp. 209, (9) describes, for example, for the GE case).
+
+However, if one examines the brand strategies and – subsequently – architectures of Merrill Lynch Research and PricewaterhouseCoopers, one will realize that the value offered their clients is in fact in the first place a reduction of complexity through their unique knowledge. In consequence, a corporation which wants to have access to high-margins and knowledge intensive markets, has to materialize knowledge (through people, systems and combinations of both) in its corporate brand and through special knowledge brands such as branded methodologies (such as Arthur Andersen’s KMAT methodology to assess knowledge management problems), branded conceptual tools (such as the Boston Consulting Group’s Learning Curve tool) , newsletters or magazines (such as the McKinsey Quarterly), specific surveys (such as PWC’s E-Business Surveys), conferences (such as IBM’s Knowledge Management Conferences), or Internet portals (such as brint.com a portal on e-business know-how) or software (such as Gemini’s Knowledge Galaxy). In doing so, the company reduces the complexity of its own offerings – since the communication of knowledge is a rather complex process (see the subsequent section) – by materializing it in tangible proxies.
+
+Figure one below describes the discussed branding issues by visualizing the relation of the different brands to the complexity of the brand message and their impact on the corporate brand. The figure shows that knowledge brands have a greater impact on the corporate brand than most service or product brands since they directly contribute to the reputation of a company. The chart also shows that the complexity of brand messages of knowledge brands is considerably higher than that of service brands or pure product brands (where the utility of a given product or service requires little or no explanation, knowledge always has to be put into a context in order to reveal its potential value). The examples that are provided in each cluster represent typical brands of each group. Product brands often make no reference to the company that is behind the brand. Pringles, for example, is a well-known food brand that does not stress the connection with its producer Procter & Gamble, neither in its advertisement nor in its packaging. The impact on the corporate brand it thus very limited. There are, of course, product brands that also leverage the company brand, such as the Audi TT or the Volkswagen New Beetle, or vice versa (as in the case of Swatch). The second cluster, consisting of service brands, shows that there are brands which market a service without mentioning the corporate brand (such as the “Taxi” insurance for young people by Winterthur Insurance, the Mobility car sharing service, or the Magellan fund by Fidelity) while others use the corporate name to market their services (such as Club Med). The knowledge brands finally provide access to a higher margin business, and hence originate in knowledge-intensive industries such as market research, consulting, or investment banking. Unlike the previous two types of brands, the knowledge brands in the diagram below represent a certain competence (such as IT competence in the case of the Gartner Executive Briefings, or strategy-competence in the case of the McKinsey Quarterly Magazine) and not a specific service or product. Many knowledge brands can be positioned within the business-to-business context (such as client events of consulting companies), while there are also knowledge brands targeted at end consumers, such as those of on-line opinion portals (i.e., slashdot.org, ehow.com, or epinions.com) that broker expert knowledge and advice or conferences such as TED (Technology, Entertainment, Design) by Richard Saul Wurman (see www.ted.com).
+
+ 
+
+FUNCTIONS OF AN KNOWLEDGE BRAND
+As the name indicates, intangible assets such as knowledge are difficult to illustrate or render visible. Hence, the foremost function of a knowledge brand is exactly that: to make the invisible value proposition inherent in a competence visible and tangible (materialization). This can be achieved through the use of powerful symbols, slogans, artifacts (such as surveys), or personalities (who embody the marketed skill or talent, as Orit Gadiesh – chairman of the board at Bain & Company - embodies the aggressive intellect of the consulting firm Bain & Company). In addition, the brand needs to simplify the often complex value proposition inherent in marketing a skill or competence. This can be achieved by stating the purpose of the packaged knowledge explicitly (i.e., in the accompanying slogan, as in “We know what your customers want”). A third function of a knowledge brand is to relate the skill or knowledge to the institution that offers it and thus legitimizing it. This should be achieved by linking the competence back to a core-competence rooted in the organization. Sony for example, traces back its portable music technology products to its core-competence of miniaturization. The fourth and final function of a knowledge brand is differentiation. Following the argumentation of the resource based view of the firm (12), the branding process should differentiate a company’s knowledge by showing that it is:
+
+⦁	valuable to customers (e.g., that it solves a specific client problem in a competent way),
+⦁	rare (that it cannot be bought or acquired elsewhere at the same level of expertise and experience)
+⦁	difficult to imitate (that others cannot easily imitate the problem solving experience, tasks and skills of the company), and
+⦁	difficult to substitute (that the problems a client faces cannot be solved with skills related to the area of expertise).
+
+Section four of this article will show how these four functions of a knowledge brand can be achieved. Examples of brands that fulfill these four functions can be found in the fields of consulting, market research, or financial services, as the case studies in the fourth section will show. Knowledge branding is therefore a process that benefits the marketing of solutions such as a reengineering methodology, an analytic tool such as a risk monitor or brand valuation tool, a market research report, or a trend report on future developments in an industry. From a problem perspective, a knowledge brand can be used to market solutions for the following types of client problems:
+⦁	 improving knowledge about their customers (direct marketing companies),
+⦁	 improving knowledge about their own company (consulting companies),
+⦁	 improving knowledge about the market (market research),
+⦁	 improving knowledge about the competition (competitive intelligence firms),
+⦁	 improving knowledge about the future (trend scouts).
+
+Having shown the functions of a knowledge brand, it remains to show how these functions can be achieved through the branding process.
+
+THE BRANDING PROCESS
+We cannot prove that knowledge brands originate from “old” service brands, though examples such as Merrill Lynch or PricewaterhouseCoopers indicate such an evolution. Logically, such a strategic evolution is a pre-condition for the brand development. The previous section explained that a knowledge brand has four functions: materialization, legitimization, simplification, and differentiation. In order to specify how these four functions can be achieved in the knowledge brand, we follow a branding concept that we abbreviate in the four T’s of Topics, Targets, Transmitters and Tools. These 4T`s can be used as a general communication heuristic, which – in our case – is being used specifically for the process of branding knowledge.
+
+This 4-T-framework is based on the idea that – with the strategic evolution for business and clients in mind – a communication process requires to (1) select topics (what the company wants to communicate or portray), (2) match targets with topics (segment target audiences), (3) create tools (communication means) and transmitters (communication intermediaries) for the branding strategy and its implementation and (4) connect the identified topics with the targeted groups through tools and transmitters. A short example can illustrate this pragmatic approach to branding: The views of the future by well known business leaders (topic) could be distilled to a specific group of CEOs (target) through a CEO-survey (tool) and be presented on a CEO-conference on future developments (transmitter) to strengthen a consulting company’s reputation as a competent problem solver on a strategic scope.
+
+ 
+
+An inherent aspect of a knowledge brand in this process consists of relating the various competencies of a company to one another. The objective of a knowledge brand is, in other words, to create “members” of a family of brands that relate to one another through a common visual and verbal identity. By creating a family of knowledge brands, the various competencies of a firm can be traced back to the same institution and create a logic of intellectual capital.
+Below, we outline the four steps of the branding process in detail.
+
+1. Step one: Select topics
+In step one, the four functions of a knowledge have to be made explicit topics themselves. For example: We may know the trends of the future and why they are relevant for your company (materialization). We have done so before and have a track record of anticipating future topics (legitimization). We can reduce the complexity of such future topics and explain their relevancy to you (simplification). We do it differently than other advisors – since our solutions provide sustainable value, are unique, and cannot be imitated or substituted (differentiation).
+
+These four functions have to be reflected in a balanced portfolio of topics. CEO’s have different topics than CFO’s or “ordinary” line or regional managers. The reason for the mix is simple: a knowledge brand cannot offer a CEO-conference once per quarter, because it would simply loose its extraordinary character. The relevant portfolio of topics can usually be narrowed to three different themes: issues, resources or regions.
+
+2. Step two: Match topics with targets
+In step two, the portfolio of topics must be matched with potential target groups. A CFO, as an example, might be interested in a conference on “Investment opportunities in Eastern Europe”, an HR-director tends to focus on a joint-conference with, for example, the Warsaw business school in Eastern Europe or the CEO himself might be interested in a conference on “the future of Eastern Europe”.
+
+The portfolio of topics and targets has to be attached to the corporate brand, in order to start branding the corporation’s ability to “develop and apply” knowledge. Both slogan and logo must interpret the corporate brand’s ability to materialize, legitimize, simplify and differentiate knowledge on every level and in every region. Slogan and logo are the interfaces between topics and targets. They work both to the inside (identity) as much as they do to the outside (image).
+
+In the information society, where capturing the attention of potential targets is critical, the portfolio of topics and targets must subsequently be mirrored in one brand-cascade, e.g. the same main message must be made visible on all levels (company level, knowledge or competence level, product and service level). Thus, the company can be positioned as one set of related competencies.
+
+3. Step three: Create tools and transmitters
+Tools are everything which contain knowledge (i.e. a survey), while transmitters are everything which explain knowledge (i.e. a conference or a person). In order to maximize momentum for the process of branding knowledge, companies should co-operate with other valuable knowledge brands which have a different role in the knowledge value chain (e.g. which engage in fundamental research as opposed to applied research or which distribute knowledge rather than create it). Oracle (slogan: Software powers the Internet) for example cross-branded with the both Newsweek and the Davos World Economic Forum by providing the daily www.dailydavos.com Web-page. This Web-site was in turn announced on the frontpage of Newsweek. Thus, the magazine (Newsweek) provided the content from a wellestablished knowledge transmitter (Davos Forum) with a well-known Internet brand (Oracle). This is the first step to exemplify the strategic evolution from a corporate to a knowledge brand.
+
+As mentioned before, the knowledge brand must create awareness for its knowledge through the brand-cascade (via press conferences, advertising, personal contacts, cross branding, round tables etc.). Creating awareness does not mean to disclose full results or offer all insights for free. In contrast, this step is solely devoted to the fact that potential clients will be interested in the ability to “develop” knowledge. The key to success for attracting attention is differentiation, i.e. doing a survey, which others cannot (because they do not have the contacts), making it rare (limited access to the full results), and showing the difficulties to imitate and substitute the findings. A special type of knowledge brand – which is often difficult to imitate or replicate - in this context is the business book. By creating a special technical term and using this term as a book title, a company can create a knowledge brand that is associated with its business. This strategy is often used by consulting firms in order to market their know-how. The IT and media consulting firm Booz, Allen & Hamilton, for example, used a book to increase the reputation of its media practice. The leading partner of that practice, Michael J. Wolf, published a book called “The Entertainment Economy” (which included the concept of the e-factor for entertainment value in regular services) thus claiming that term for the company and turning it into a knowledge brand.
+
+4. Step four: Connect topics with targets through tools with transmitters
+The art of building a knowledge brand is to connect the four T’s. In doing so, the corporate brand can show that the new knowledge brand is actually providing new thoughts, new systems, new ideas, new solutions or new trends. Examples are given in the box below:
+
+http://goodwill.at/website/thoughts/Articles%20E/MWI_BrandingKnowledge.pdf
+
+BRAND KNOWLEDGE BASICS
+Why is creating brand-knowledge important?
+The Coca-Cola brand was worth $68 billion in 2009, according to Interbrand. This amounted to more than 50% of the value of The Coca-Cola company. Creating valuable brands is extremely important to the company’s shareholders.
+It is a knowledge economy. Brands are the currency of the knowledge economy. Brands are neither physical products nor actual services – brands are knowledge products.  Successfully creating brands is a knowledge creation process.
+What is brand-knowledge? Where is brand-knowledge?
+Kevin Keller defined brand knowledge as awareness of the brand name and belief about the brand image. Valuable beliefs are authentic beliefs – consistent and durable.  In addition to belief, consumer experience is an important part of brand knowledge. Consumer experience includes emotions, sensations, and activity. Using the terminology of philosophy, beliefs are “explicit” knowledge – meaning they can be put in words, and experience is “tacit” knowledge – meaning it cannot be put in words.
+
+Brand-knowledge – both explicit and tacit brand-knowledge – primarily is created by both the consumers and the marketer. Other players in brand-knowledge creation include researchers, advertising agencies, marketing consultants, distribution channel partners, and others. Brand- knowledge is created and held both by individual people and by groups.
+
+So, brand-knowledge includes two dimensions:
+⦁	beliefs (explicit)  - experience (tacit) dimension
+⦁	individual – group dimension
+
+How to create brand-knowledge successfully?
+Creating brand-knowledge is a process of transforming beliefs to experiences and experiences to beliefs. In addition, creating brand- knowledge requires that marketers exchange information with consumers and that brand-knowledge is transferred between individuals and groups within the organization.
+
+ 
+http://blog.brandivity.com/p/brand-knowledge-basics.html
+
+KNOWLEDGE MANAGEMENT FOR INNOVATION MSC/MTECH/PGCERT/PGDIP
+(Full-time/Part-time)
+The MSc Knowledge Management for Innovation is operated in conjunction with industry and applies many industrial tools. This course aims to create the next generation of technical and business leaders who can drive strategic innovation and collaboration by effective management of organisational knowledge within their specialist domains. Therefore it develops leadership skills, team working skills, creativity and knowledge, to enable individuals to implement management practice to aid the development of business. The course combines rigorous academic activity, practical work, utilising industry software such as SAP, and real-life experience through industry sponsored project work, in preparation for careers in engineering extended enterprise.
+Students completing this course will have a full appreciation of the relevant technical and business requirements for the implementation of knowledge management practice to aid innovation within the organisation.
+
+http://www.cranfield.ac.uk/courses/masters/knowledge-management-for-innovation.html
+
+
+Certificate in Knowledge Management
+Knowledge fuels any successful organization. But the most vital knowledge is often intangible and cannot be captured easily or documented directly. It resides in the experience, insights, actions, and interactions of the organization’s people, not in its databases or on its servers. Increasingly, organizations recognize the need to share and use the wealth of knowledge rather than merely to find efficient ways to store terabytes of information. Enter knowledge management: the practice of ensuring that the best of what is known in the workplace is mobilized rapidly and survives employee turnover and organizational change. 
+
+Our new Certificate in Knowledge Management Program, designed and delivered in conjunction with the Institute for Knowledge Mobilization, is crafted to address the need for consistency and quality of training in knowledge management. With the sharp focus on real-world application that our training is known for, the program delivers insights into the current state of the knowledge environment and teaches cutting-edge practices for knowledge management. You will learn from acclaimed trainers who are practising experts in the field. After completing the program, you will hold a certificate to demonstrate your knowledge.
+
+http://www.continue.uottawa.ca/Centre-for-Continuing-Education-Certificate-in-Knowledge-Management.cfm
+
+Knowledge Management ONLINE course, 10 June-19 July 2013
+Managing knowledge is not just a specialized function within an organization: It is a basic skill all UN staff should cultivate to boost innovation and continued improvement of our services. In fact, the Office of Internal Oversight Services has recommended that knowledge management competencies are an explicit and strong component of the performance appraisal system and that staff are provided with learning opportunities to develop the required skills (E/AC.51/2006/1).
+
+Course Description
+In partnership with subject-matter experts Chris Collison and Geoff Parcell, the UNSSC has designed this course to equip UN staff with enhanced skills and hands-on experience in applying knowledge management tools and techniques in the UN context.
+At the completion of this course, participants should be able to:
+⦁Describe a range of skills, methods and techniques to enhance individual and collective performance in developing programmes and delivering sustainable and effective results;
+⦁Give examples of how knowledge management can boost individual and collective effectiveness in their particular context, as well as from an organization’s perspective;
+⦁Identify “quick wins” and use appropriate knowledge management techniques to foster dialogue and collaboration, identify good practice and facilitate access to pockets of knowledge within their respective context.
+This distance learning course is delivered on-line over a period of six weeks. Participation in the course requires dedication of approximately six hours per week (including a two-hours webinar). Total duration of the programme is estimated in 40 hours. Each week the programme focuses on a different aspect of the process to make effective use of knowledge in an organization. The course structure is the following:
+⦁Week One: A comprehensive approach to knowledge management
+⦁Week Two: Tools and techniques to learn before, during and after engaging into any activity
+⦁Week Three: Networks and communities of practice
+⦁Week Four: Capturing and sharing knowledge
+⦁Week Five: Developing a strategy to leverage knowledge to deliver results
+⦁Week Six: Leadership lessons and action planning
+The programme has a strong focus on the application of learning. Thus, participants are required to report on lessons learned in pursuing personal action plans developed within the course in order to complete the programme and obtain a Certificate of Achievement.
+http://www.unssc.org/home/activities/knowledge-management-online-course-10-june-19-july-2013
+MARKETING & BRANDING
+Certificate Program in Marketing and Branding
+Brand Management, Business Intelligence, Database Marketing, Digital & Social Media Marketing, Profitable Customer Engagement, Innovation & Implementation
+
+This fast-paced and highly-interactive program focuses on the creation and management of profitable relationships with customers by building brand equity. The program sessions emphasize the use of information and communication strategies in researching, selecting, entering, and competing in new markets. Attend this program and you will discover how to develop innovative business models for relationship marketing; the acquisition and retention of profitable customers; and the use of multichannel communications, including social media, for creating higher degrees of customer loyalty among your most profitable customers.
+
+The Certificate Program in Marketing and Branding is designed and taught by award-winning professors who have extensive experience in teaching marketing to working professionals. The instructors use a combination of multi-media presentations, real-world case studies, and hands-on exercises. Attend this unique certification program and you will walk away with the knowledge, concepts, and tools for a successful career in marketing and branding.
+
+Program Content
+⦁Topic One: Business Intelligence
+Marketing intelligence has wide-reaching impacts by changing what managers do, sparking new insights, and accelerating profitable growth. This session provides an overview of business intelligence frameworks and application-based marketing analytics and reporting.
+⦁Topic Two: Database Marketing
+We live in a world of Big Data. The challenge faced by most firms is the sucessful application of tools and methods to get the necessary insights from the data. This session focuses on the importance of database management.
+⦁Topic Three: Brand Management
+From opportunity identification to managing a new product or service from concept to introduction, this session focuses on proven methods for new product development, test marketing, brand building, and brand management.
+⦁Topic Four: Profitable Customer Engagement
+This session focuses on a new framework called the Customer Engagement Value (CEV) for measuring and maximizing customer engagement. This framework includes the four key performance metrics that every company should measure: CLV, CRV, CIV, and CKV.
+⦁Topic Five: Digital and Social Media Marketing
+This session focuses on best practices for employing the Internet, online social media, and other digital platforms such as mobile phones to implement your marketing strategies. You will learn new principles, platforms, and business applications relevant to digital media marketing.
+⦁Topic Six: Innovation, Interaction, Integration and Implementation: The program offers you an opportunity to use the concepts discussed to solve your high-priority business problems. The professors will help you determine both short-term and long-term project ideas.
+
+http://execed.robinson.gsu.edu/Pages/certificate_programs/finance_strategy_sales/marketing_branding.aspx
+HOW TO MAKE YOUR INTANGIBLE PRODUCTS EASIER TO SELL
+When you are in the business of selling intellectual property—books, courses, speeches—you have to work hard to make the product tangible to your prospect. You have to help them see what they are buying.
+
+This is why, for example, publishers produce the book jacket or cover months before the book is manufactured and oftentimes before it is even written. Increasingly, publishers render these in 3-D images to make them look even more real.
+
+Recently, I was thinking about this in regard to speeches. As a professional speaker, that is essentially what I am selling—a public presentation on a specific topic. Historically, booking agents and speakers bureaus have sold speakers on the basis of the speaker’s reputation and perhaps a demo video.
+
+That got me to thinking. What if I packaged my speeches, just like I would package a book, a course, or any other intangible product? My goal was to help event planners envision exactly what they are buying.
+To do this, I took seven steps:
+⦁Identify my products. In my case, I have six basic speeches that I give. (I learned how to identify my products at the ⦁	Launch conference. A speech is only one kind of product, but this is where it starts.) I do custom speeches, but these are the presentations that are requested over and over.
+⦁Fine-tune the titles. Just like a book title, I needed a strong, catchy title and a subtitle. I came up with the following:
+⦁Platform: Get Noticed in a Noisy World
+⦁Life Plan: Designing the Life You’ve Always Wanted
+⦁Shift: Leading in Turbulent Times
+⦁More Margin: How to Shave 10 Hours Off Your Work Week
+⦁Authentic Leadership: The 5 Characteristics of Effective Leaders
+⦁The Leader’s Heart: Unleashing the Most Important Leadership Tool You Have
+⦁Create packaging for each product. How do you package something as intangible as a speech? I decided that the “cover” was essentially the first slide in deck for each speech. (Professional speakers often refer to a collection of slides as a deck, as in “deck of cards.”) Here’s the cover for my “Platform” presentation:
+
+Create a summary of each speech. I basically took what I teach in my book Platform about creating an elevator pitch (Chapter 11) and applied it here. For example, here’s the summary for my “Platform” speech:
+In today’s hyper-noisy world, it is hard to get anyone’s attention. You need a platform to be seen and heard. Thankfully, it’s never been easier. In this presentation, I share how to use social media to build your brand, decrease your marketing costs, and increase your impact.
+
+Depict the product in its environment. If you are selling a car, you show people driving it. If you are selling an Amazon Kindle, you show people reading it at the beach.
+In my case, I had a designer build a “frame” of an audience viewing my title slide, as though I were about to walk onto the stage and make the presentation. Here’s what the “Platform” speech looks like in its frame:
+
+The purpose here is to help the event planner envision the product he is buying.
+
+Write copy describing the product. In the publishing world, this is one of the first things that must happen before the marketing process begins. Why should it be any different in the speaking world?
+I decided to write sales copy for each speech, consisting of six sections:
+
+⦁Quick Summary: This is the exact same copy I provided in the summary above.
+⦁Presentation Outline: Like a table of contents, I want to explain exactly what I cover in the speech. This gives a sense of the flow and how I develop each talk.
+⦁Target Audience: I want to make it clear who this presentation is for. I also provide a list of the types of audiences I have made this presentation to in the past.
+⦁Possible Formats: I explain how I can deliver this presentation—keynote, workshop, or seminar. I also talk about the ideal length.
+⦁Intended Outcomes: This is really what the event planner is buying. He or she is not buying the content per se, but the impact the content will have on the audience. I explain exactly what audience members will get as a result of my presentation.
+⦁Topic Authority: This section is intended to answer the question, “Why are you qualified to speak on this topic?” I list the relevant points from my resume that apply to this topic.
+
+Create a sales page for each product. I always create a landing page for each product. (Here’s one for my Platform book and another one for my e-books.) Why should a speech be any different?
+
+A landing page is something that my booking agents at Premiere Speakers Bureau can use when talking with event planners. It is also something I can use when people ask for the details related to a specific speech. I often refer to it in my pre-event phone call with the sponsor.
+
+I describe the components of effective landing pages in my book, Platform (see Chapter 30). I created a landing page for each speech, using those guidelines. Here are the six finished landing pages:
+
+⦁Platform
+⦁Life Plan
+⦁Shift
+⦁More Margin
+⦁Authentic Leadership
+⦁The Leader’s Heart
+
+I didn’t include some elements like the offer, because these are typically handled by my booking agents over the phone.
+
+If you are a public speaker—or want to become one—this might provide some ideas for you to make your “product” more tangible. If you are not a public speaker but are in the business of selling intangible property, perhaps this will provide an example that will inspire you in your particular field.
+
+http://michaelhyatt.com/intangible-products.html
+
+TOP TEN PROMOTIONAL STRATEGIES (by Carl Hose, Demand Media)
+Product promotion is one of the necessities for getting your brand in front of the public and attracting new customers. There are numerous ways to promote a product or service. Some companies use more than one method, while others may use different methods for different marketing purposes. Regardless of your company's product or service, a strong set of promotional strategies can help position your company in a favorable light with not only current customers but new ones as well.
+Contests
+Contests are a frequently used promotional strategy. Many contests don't even require a purchase. The idea is to promote your brand and put your logo and name in front of the public rather than make money through a hard-sell campaign. People like to win prizes. Sponsoring contests can bring attention to your product without company overtness.
+Social Media
+Social media websites such as Facebook and Google+ offer companies a way to promote products and services in a more relaxed environment. This is direct marketing at its best. Social networks connect with a world of potential customers that can view your company from a different perspective. Rather than seeing your company as "trying to sell" something, the social network can see a company that is in touch with people on a more personal level. This can help lessen the divide between the company and the buyer, which in turn presents a more appealing and familiar image of the company.
+Mail Order Marketing
+Customers who come into your business are not to be overlooked. These customers have already decided to purchase your product. What can be helpful is getting personal information from these customers. Offer a free product or service in exchange for the information. These are customers who are already familiar with your company and represent the target audience you want to market your new products to.
+Product Giveaways
+Product giveaways and allowing potential customers to sample a product are methods used often by companies to introduce new food and household products. Many of these companies sponsor in-store promotions, giving away product samples to entice the buying public into trying new products.
+Point-of-Sale Promotion and End-Cap Marketing
+Point-of-sale and end-cap marketing are ways of selling product and promoting items in stores. The idea behind this promotional strategy is convenience and impulse. The end cap, which sits at the end of aisles in grocery stores, features products a store wants to promote or move quickly. This product is positioned so it is easily accessible to the customer. Point-of-sale is a way to promote new products or products a store needs to move. These items are placed near the checkout in the store and are often purchased by consumers on impulse as they wait to be checked out.
+Customer Referral Incentive Program
+The customer referral incentive program is a way to encourage current customers to refer new customers to your store. Free products, big discounts and cash rewards are some of the incentives you can use. This is a promotional strategy that leverages your customer base as a sales force.
+Causes and Charity
+Promoting your products while supporting a cause can be an effective promotional strategy. Giving customers a sense of being a part of something larger simply by using products they might use anyway creates a win/win situation. You get the customers and the socially conscious image; customers get a product they can use and the sense of helping a cause. One way to do this is to give a percentage of product profit to the cause your company has committed to helping.
+Branded Promotional Gifts
+Giving away functional branded gifts can be a more effective promotional move than handing out simple business cards. Put your business card on a magnet, ink pen or key chain. These are gifts you can give your customers that they may use, which keeps your business in plain sight rather than in the trash or in a drawer with other business cards the customer may not look at.
+Customer Appreciation Events
+An in-store customer appreciation event with free refreshments and door prizes will draw customers into the store. Emphasis on the appreciation part of the event, with no purchase of anything necessary, is an effective way to draw not only current customers but also potential customers through the door. Pizza, hot dogs and soda are inexpensive food items that can be used to make the event more attractive. Setting up convenient product displays before the launch of the event will ensure the products you want to promote are highly visible when the customers arrive.
+After-Sale Customer Surveys
+Contacting customers by telephone or through the mail after a sale is a promotional strategy that puts the importance of customer satisfaction first while leaving the door open for a promotional opportunity. Skilled salespeople make survey calls to customers to gather information that can later be used for marketing by asking questions relating to the way the customers feel about the products and services purchased. This serves the dual purpose of promoting your company as one that cares what the customer thinks and one that is always striving to provide the best service and product.
+http://smallbusiness.chron.com/top-ten-promotional-strategies-10193.html
+
+
+BRANDING INTANGIBLES BY EMILY HUMMEL
+Despite significant growth in retail markets, salespeople in the electronics industry are expected to benefit little from this growth during the coming decade. The number of people employed in retail sales now tops 4.5 million and employment in this sector is expected to grow 12% in the coming decade, according to the U.S. Department of Labor’s 2006 Labor Statistics. In fact, retail sales is projected to be one of the leading work categories providing the new jobs – approximately 557,000 – between 2006 and 2016 but salespeople in the electronics industry will reap few benefits from the increase.
+Electronic commerce is growing in popularity, according to the Labor Department, but “the impact of electronic commerce on employment of retail salespersons is expected to be minimal.” Even though retail salespeople will “remain important in assuring customers, providing specialized service, and increasing customer satisfaction,” the Labor Department stresses that there are major changes occurring in this market. Many who have spent their careers in sales are finding themselves selling more intangible products and services than in the past.
+This shift toward providing intangible services is especially apparent in the technology field. American’s dependence on technology has resulted in a multitude of previously nonexistent services such as hiring the “Geek Squad” to repair computer hardware and software as well as assisting in connecting services and providing in-house service calls. In an effort to protect their computers from a variety of dangers ranging from viruses to mechanical glitches, consumers are funneling large sums of money into software companies in the form of monthly fees. In return, consumer’s computers are regularly monitored, updated, and protected.
+It is ironic that these high tech services are being marketed in such a low tech way. Nationwide, software salespeople are sitting in cubicles cold calling prospective customers. “There has to be a better way to sell these software packages and services without reverting back to the archaic cold call,” says Jeremy Jackson a computer software salesman with Protechnica. Jack Ferrari writes in Successful Sales and Marketing magazine that, “These are basically intangibles, which represent the use of cash to purchase assets with an undetermined life, which may never mature into cash and should not be sold like tangibles” (cars, make-up, encyclopedias) such as in the past! In Ferrari’s 2005 article “Become as good at selling your service as you are at performing it, and watch your sales soar,” he stresses that “intangibles need to be sold to clients not because they want or need them, but because they cannot live without these intangibles.” Modern day salespeople “need to brand these items in such a way that it becomes part of their lifestyle!”
+“If your business is primarily a service provider, you have to approach marketing with some special sensitivities,” Ferrari stresses. “You can't simply drop a product on your prospect's desk” or invite potential customers “to compare your products with those of your competitor.” Ferrari contends that the secret to selling services depends on marketing to a “satisfied client” list because they already believe in “the quality of your service.” However, unless such lists are provided to salespeople new to the job, these employees face the daunting task of finding new customers and convincing them to buy their services.
+Selling tangible goods is a visual experience. Salespeople can literally place their product on the table in front of a prospective client and demonstrate how the product fulfills their needs. The primary challenge in this type of sales is to offer products that are better, cheaper and easier to use, come with a comprehensive warranty program, and can be delivered expeditiously. Protechnica’s Jackson believes that selling intangibles is one of the most difficult problems salespeople face. This is an enormous concern because as technology circles the globe, an abundance of intangible services follow in their wake. Making these intangible services tangible to consumers is the challenge today’s salespeople face.
+Some experts believe the way to accomplish this is to successfully brand companies during the initial marketing plan and continue to build upon this core foundation while simultaneously differentiating the brand and fostering trust during the sales equation.
+Figuratively, a brand is “a mark that you sear into livestock with a hot poker” that identifies which animals belong to your ranch. Following this logic, marketers have come to think of branding as “a mark that you sear into people’s minds and hearts that identify your product (or) services of your company.” Write Market, “the web design pros,” has developed over 100 small business web sites with marketing campaigns since 1998, breaks down the branding process into seven basic elements and suggests that companies analyze all seven elements and strengthen any weaknesses that exist because “all the elements must work together to create a business presence.”
+Write Market’s Terry Kent and Renee Kennedy contend, “branding has to encompass many elements that all work together to create a meaningful mark in the minds of the buying public and has to be at the root of ALL marketing efforts.” In order to accomplish successful branding, executives should begin by analyzing and answering the following questions pertaining to the seven elements and making corrections as necessary to position their company strongly in the market. The resulting information will be used to create a successful brand and form the core of the supporting marketing plan.
+Element One -- Niche/Target/Positioning
+What do you know about your Industry?
+Where does your company fit into the Industry?
+How do you differentiate yourself from your competitors?
+Who is your target?
+How does your product satisfy your target's needs?
+Element Two -- Slogan or Unique Selling Proposition (USP)
+Does your USP deliver one, strong BENEFIT to your target?
+Does your USP tell people what you can do for them?
+Does your USP eliminate the competition?
+Does your USP imply that you are the ONLY solution that your target will need to solve their problems?
+Element Three -- Logo
+What images or ideas does your logo conjure?
+Does it deliver a clear message?
+Does it deliver a message that is consistent with your USP?
+Element Four -- Customer Service Policy Do you have systems in place to handle Customer Service Issues? Topics might include:
+Billing and payment services
+How you will handle customer complaints
+First contact with a customer
+How you answer the phone
+Element Five -- Pricing
+How does your price compare to your competitor's price?
+Are you using pricing to imply quality?
+Are you using pricing to imply cheapest price?
+Element Six -- Trust and Credibility
+Trust:
+Secure online shopping
+Guarantee or warranty
+Build a community
+Credibility:
+Are you looked at as an expert?
+Do you provide information to your clients freely? (This is a tough issue, you do want to provide some information, but you may need to have limits - you don't want to give away the store.)
+The Web is a great place to provide information and to make your business look credible. It can start with the little things like a professionally designed web site and move up to providing resources like online manuals that show how to use your products.
+Element Seven -- Marketing Strategies (how you will build awareness of your brand):
+⦁Networking
+⦁Direct Mail Marketing
+⦁Traditional Media Advertising
+⦁Training Programs
+⦁Become an Expert
+⦁Direct Personal Selling
+⦁Publicity and Press Releases
+⦁Web Site
+Internet Advertising
+(The Write Market, LLC., 1998 – 2006)
+Setting up a marketing plan for intangible products should follow the same models as tangibles. To promote success, decision makers should determine their niche market, study the competition and then determine where their company should be positioned in relation to the competition. It is essential that companies offer something to their target market that their competition is not offering. Among other things “this could involve a number of strategies including customer service policy, pricing, delivery, (or) production, ” Write Market stresses.
+Once companies identify their unique attribute that differentiates them from the competition, they can develop and build their brand utilizing the seven elements. Write Market urges companies to continually affirm their uniqueness when building a USP, designing a logo, developing customer service policies, and nurturing trust and credibility. Once this is done, they can take their tightly branded company to the public and begin building brand awareness through marketing strategies. “Your brand,” Write Market contends “culminates in building loyalty in the hearts of the buyers.”
+The emphasis on differentiation and trust during the branding process of an intangible can have a huge impact on sales. Charles H. Green, founder of Trusted Advisor Associates, emphasizes that branding is important when marketing intangibles “but it has a narrower role than is the case in most consumer and industrial markets. Buyers of complex intangible services are buying specialized expertise. They dread the thought of having to become experts in the thing they are buying – in fact, that is why they are seeking an expert.” Given a choice, he notes, consumers “prefer to find a qualified expert they trust rather than evaluate the expertise of many experts.”
+Differentiation and trust should ideally be paired in a symbiotic relationship when marketing an intangible. Green contends that the most significant differentiator of all is the customer’s “increased level of confidence” that results from trust. “Buyers of complex intangible services want the confidence that comes from trust,” he notes, “and trust is born of personal experience.” In essence, branding gets your product on the short list, differentiation provides the opportunity for salespeople to pitch the product as well as their personal reliability, but trust is what seals the deal. Green contends that differentiation of the product provides access to customers that then must differentiate between the salespeople involved.
+Thus, although differentiation is essential in branding products, it does not end there. Differentiation extends beyond the product to people. “The best differentiation…happens at the individual level,” Green says, “in the act of buying and selling. This is good news, because it’s a lot easier to differentiate human beings deployed against unique problems and individual clients than it is to differentiate dozens of complex abstract intangible service firms.” He urges salespeople to minimize marketing based on mission statement and corporate differentiation and concentrate more on their trustworthiness and rapport with the client. “Let your clients test-drive you,” he says, because “the experience will be unique.”
+Green believes that “trust is best assessed by the equivalent of a test drive -- doing sample work with the professional so that clients can evaluate their own level of trust at working with the expert. As trust is continually built, use the success of the product and services to sell more by producing documentation, testimonials, case studies, plans, statements of ‘deliverables’ or ‘outcomes’, etc., to give your intangible product as much tangibility as you can achieve.”
+http://www.brandchannel.com/papers_review.asp?sp_id=1388
