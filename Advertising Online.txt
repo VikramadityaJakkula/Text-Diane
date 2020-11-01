@@ -1,0 +1,36 @@
+Advertising Google Ads
+
+Ad rank = Max cpc bid * quality score
+
+Ad Rank = Score used to rank ads against each other
+max cpc bid = Advertisers choose the max amount they are willing to spend per click for each keyword
+Quality score = Score (1-10) of your ad based on click through rates, landing page experience and relevance.
+
+Higher ad rank the better your ad will be displayed.
+
+Ad groups is where targetting is done.
+
+Keywords Research:
+
+In google ads we have keyword planner. It will help in  finding ketwords.
+Look for keyword ideas: search for keywords which are used by users.
+
+It is all based on keywords
+
+Instagram story ads:
+Facebook ad manager
+33% of instagram users made online purchases using their ad platform.
+Photo Ads(Image Ads): You can use action buttons in ads.
+Video Ads: You can use action buttons in ads like:Apply now,Book now, Call now, Contact us,Download.
+Carousel Ads: Users can have photos or videos ads with buttons and can scroll.
+Collection Ads: Only 2 buttons Learn more or purchase.
+
+
+How do you identify Target Audience in instagram:
+⦁Age Demographic Breakdown: 18-29: 55%, 30-49:28%, 50-64:11%,Above 65: 4%
+⦁Location Demographics: Urban Area – 32%, Suburbs – 28%, Country – 18%
+⦁More females than males.
+
+
+Snapchat ads:
+Photo or Video and nice step by step process to create and lauch ads.
