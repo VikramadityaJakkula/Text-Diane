@@ -1,0 +1,58 @@
+Artificial intelligence (AI) in healthcare
+There is always a need for continuous supervision and quick diagnosis in the case of older patients. The promise of modernizing the health system
+by delivering an efficient, precise, person-centred and cost-effective healthcare has been a driver to implement new technologies. 
+However, very little has been delivered to date in terms of direct patients’ care and benefits. The ethical issues remain unaddressed 
+and without this regulated the wider AI implementation within the healthcare system cannot proceed. Health professionals should not blindly 
+embrace technological advances but instead take them carefully when discussing algorithm-driven clinical decisions, include ML in 
+multidisciplinary fields, while additionally learning new skills in 
+statistics and computer science to help develop the clinical algorithms and their evaluation in routine clinical practice.
+
+
+
+AI tools applications in the diagnosis, therapy, R&D and health management
+Both Deep Learning and ML are based on recognizing patterns of images and require thousands to millions data points to construct an AI 
+learning model that will provide both an accurate and quick fit for use in medical purposes, i.e. computer-aided diagnosis. 
+Another useful contribution of AI is the development of novel pharmacological interventions based on virtual screening and de novo drug 
+design using Deep Learning. Novel pharmacological discoveries will hopefully avoid
+the adverse effects of current therapies used in older people, while reducing costs and risks related to preclinical and clinical trials.
+We also see that now wearable devices have entered the market which use
+AI techniques to detect early onset of diseases.
+
+
+
+Information on types of complex algorithms developed for Alzheimer’s
+With AI What is happening right now is improved patient experience, reduced cost and improved well being.
+At stevens institite of technology they have used language analysis to identify whether the person has alzimers or not. They said that 
+they would extend that to email and social media analysis. What if the person is alcoholic and keep blabering out will he be alzimers patient
+and medicines be prescribed to him by AI.
+
+
+
+
+Coverage of major issues related to the utilization of AI for diagnosis and treatment of Alzheimer’s
+Do patients have the right to refuse diagnostics and treatment planning by AI?
+Are patients being offered a justification for holding their health data for use in algorithmic decisions?
+What are the ethical issues about virtual reality treatment in patients, i.e. those with dementia and learning disability?
+How will the relationship between physicians and patients change as a result of the introduction of algorithms in the provision of medical care?
+Who is going to attend to unidentified methodological shortcomings?
+What about monitoring technological developments to ensure preventative and precautionary safeguards for those who are involved?
+Technological crime?
+Tension between goals of improving health and generating profit.
+algorithms might be designed to skew results, depending on motives of programmers, companies or health care systems;
+
+
+
+
+Conclusion
+The health system has accumulated massive datasets, largely due to the introduction of electronic records,
+which include demographic information, medical history, laboratory tests and radiological investigations, 
+history of surgical interventions, medication history and allergies, lifestyle etc. Such data can be used 
+productively for: improving diagnosis and treatment, prevention, diagnosis and cure of communicable, acute 
+and chronic diseases, considering information on lifestyle, general health and demographics, aid timely diagnosis 
+and prediction/prevention of disease onset at an early stage. A promising avenue is the secondary use of electronic 
+health records, where patient data are analyzed to conduct clinical and translational research. One of the advantages of 
+AI is its use in geographically isolated areas, where there is limited access to healthcare, and also overcoming the 
+increasing lack of specialized medical staff. In this, machine learning and deep learning are paving the way, 
+enabling extensive data sets to be analyzed using algorithms, a set of rules given to an AI program to find patterns which 
+are far too complex or numerous for a human programmer to extract and teach a machine to recognize.
+Lot of innovations is happening within the industry.
