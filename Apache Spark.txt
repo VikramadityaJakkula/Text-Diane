@@ -1,0 +1,30 @@
+What Is Apache Spark?
+Apache Spark is a cluster computing platform designed to be fast  and  general-purpose.
+Spark offers sql interactive queries and streaming which aren’t supported by Hadoop. Apache Spark is a distributed and highly scalable in-memory data analytics system, providing the ability to develop applications in Java, Scala, Python, as well as languages like R.
+Apache Spark has 5 modules which are Sql, Sql Streamining, Ml, Mllib(machine learning Library) and GraphX.
+
+Spark Machine Learning (ML AND MLLIB)
+The spark ML and MLLIB modules offer many machine learning functionalities or methods which can be used. This module offers functionality that includes:
+• Statistics
+• Classification
+• Regression
+• Collaborative Filtering
+• Clustering
+• Dimensionality Reduction
+• Feature Extraction
+• Frequent Pattern Mining
+• Optimization
+Spark Streaming
+Stream processing is another big and popular module for Apache Spark. It involves the processing of data in Spark as streams, and covers areas such as input and output operations, transformations, persistence, and check pointing among others. It uses the Spark cluster to offer the ability to scale to a high degree. Being based on Spark, it is also highly fault tolerant, having the ability to rerun failed tasks by checkpointing the data stream that is being processed.
+
+
+
+
+SQL AND Apache Spark
+Apache spark connects to traditional sql databases as well as the latest no sql databases. Some of the relational databases need to use connectors and connect to the Spark Engine for instance mysql, postgress sql, oracle and more in java can use JDBC to connect and compute leveraging Apache Spark. While the nosql database include Cassandra, Mongo DB and more. It also works with Graph databases like Neo4j.
+Apache Spark can run as standalone or on top of Hadoop YARN(map reduce 2.0) or Mesos (Mesos is built using the same principles as the Linux kernel) on-premise or on the cloud. It supports data sources that implement Hadoop InputFormat, so it can integrate with all the data sources and file formats that are supported by Hadoop. According to the Spark website, it also works with BI tools via JDBC and ODBC. Hive and Pig integration are on the way.
+From Spark version 1.3 data frames have been introduced into Apache Spark so that Spark data can be processed in a tabular form and tabular functions (like select, filter, groupBy) can be used to process data.
+
+Spark graph processing
+The Apache Spark GraphX module allows Spark to offer fast, big data in memory graph processing. A graph is represented by a list of vertices and edges (the lines that connect the vertices). GraphX is able to create and manipulate graphs using the property, structural, join, aggregation, cache, and uncache operators.
+It introduces two new data types to support graph processing in Spark: VertexRDD and EdgeRDD to represent graph vertexes and edges.
