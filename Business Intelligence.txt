@@ -1,0 +1,43 @@
+Introduction to Business Intelligence
+
+Understand today’s business environment and describe how organizations survive and even excel in such an environment (solving problems and exploring opportunities)
+Understand the need for computerized support of managerial decision making
+Describe the business intelligence (BI) methodology and concepts and relate them to decision support systems (DSS)
+Understand the major issues in implementing business intelligence
+
+
+
+Technology-related: more innovations, new products and services, obsolescence rate is increasing, information overload is increasing 
+
+
+Using new and innovative business models
+Restructuring of business processes
+Participating in business alliances
+Improving corporate information systems
+Improving partnership relationships
+Encouraging innovation and creativity
+Improving customer service and relationships
+Moving to electronic commerce (e-commerce)
+Moving to make-to-order production and on-demand manufacturing and services 
+Using new IT to improve communication, data access (discovery of information) and collaboration
+Responding quickly to competitors’ actions (e.g., in pricing, promotions, new products and services)
+Automating many tasks of white-collar employees
+Automating certain decision processes especially those dealing with customers
+Improving decision making
+
+Business Intelligence (BI) is an umbrella term that combines architectures, tools, databases, applications, and methodologies. Its major objective is to enable interactive access (sometimes in real time) to data, enable manipulation of these data, and provide business managers and analysts the ability to conduct appropriate analysis.
+
+
+BI systems have four major components: the data warehouse (analogous to the data in the DSS architecture), business analytics and business performance management (together, analogous to models in the DSS architecture), and the user interface (which corresponds to the component of the same name in the DSS architecture). One could also list the user as a component.
+
+
+Typical applications of BI are data mining, forecasting, predictive marketing, optimization, and business performance management (BPM).
+
+OLTP (online transaction processing) is a type of computer processing where the computer responds immediately to user requests. Each request is considered to be a transaction, which is a computerized record of a discrete event, such as the receipt of inventory or a customer order. 
+
+Define OLAP.
+OLAP (online analytical processing)  is processing for end-user ad hoc reports, queries, and analysis.
+
+
+BI may have a larger and more diversified user community. One of the most important aspects of a successful BI is that it must be of benefit to the enterprise as a whole. This implies that there are likely to be a host of users in the enterprise—many of whom should be involved from the outset of a DW investment decision.
+Not surprisingly, there are likely to be users who focus at the strategic level and those who are more oriented to the tactical level. 
