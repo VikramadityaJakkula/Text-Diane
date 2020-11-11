@@ -1,0 +1,24 @@
+Bug tracking workflow:
+The lifecycle of a bug or defect, describes the states of the bug or defect from it is created to it is closed. The following are some commonly used terms for software bug tracking (if you are in a hardware or help desk customer support situation, it could be completely different)
+
+new:  When a bug is newly created, it has a state 'new'. Some people separate this 'new' state into two states, namely, 'open' before the bug is assigned and 'assigned' after the bug is assigned. In the case of Bugzero, since a newly created bug is always assigned, you may just call it 'new' or 'open' without the 'assigned' state.
+You still can have an 'assigned' state if you decide to have all the newly submitted bugs to be sent to a manager (with 'new' state), and the manager then really assigns the bug. You can configure the workflow such that the next allowed state for 'new' is 'assigned'.
+
+open : 	 Some people call a newly created and yet to be assigned bug a state 'open'.
+
+assigned : Some people call a newly created and assigned bug a state 'assigned'.
+
+fixed :	 A bug that has been fixed by a developer has a state of 'fixed'. Normally, this is a state before the bug is confirmed (by QA) to be really fixed. If a bug is confirmed to have been fixed, it should have a state of 'closed'. Some systems allow you to configure that, only Developers can fix a bug.
+
+resolved : Similar to 'fixed'.
+
+closed :  If a bug is confirmed (by QA) to have been fixed, it should have a state 'closed'. Some systems allow you to configure that, only QA can close a bug.
+
+reopened : A 'closed' bug can be re opened if it re-surfaced or it is found to be not really fixed.
+
+suspended : A bug can be 'suspended' if it is determined that the bug should not be fixed immediately or a fix can be delayed. Some people call it 'deferred'. Some systems allow you to configure that only a certain person, such as a Manager, can suspend a bug.
+
+deferred : Similar to 'suspended'.
+
+analyzed : If more information is needed to fix the bug, it can be conveniently set to a state 'analyzed'. You may want call it a different name, such as 'update'.
+ 
