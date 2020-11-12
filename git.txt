@@ -1,0 +1,39 @@
+>git status
+
+This shows the status of the folder whether anything is committed
+
+>git add filename
+
+This adds the get file to the repository
+
+>diff --git a/filename b/filename
+
+This will show the diff of the files
+
+>git commit -m "message here"
+
+This will commit the repository
+
+>git clone repositoryname
+
+This will create local copy in machine of online repository
+
+>Git branch
+
+>git checkout -b <name>
+ 
+After making changes
+>git commit
+
+Checkout master
+>git checkout master
+
+>git merge "bug fix"
+
+>git log --graph
+
+>git branch -d "bug fix"
+
+>git checkout <filename>
+
+>git checkout master
