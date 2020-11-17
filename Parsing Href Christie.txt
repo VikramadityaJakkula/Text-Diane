@@ -1,3 +1,5 @@
+Christie 2 Internships as Test.Gold medal in maths.
+
 Just have to do this:
 //For images:
 foreach (HtmlElement img in youWebControl.Document.Images)
