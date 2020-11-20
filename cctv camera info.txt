@@ -1,0 +1,98 @@
+Camera Manufacturer	           Username	                  Password
+3xLogic	                             admin	                     12345
+ACTi	                             Admin	                     123456
+ACTi	                             admin	                     123456
+Amcrest	                             admin	                     admin
+American Dynamics	             admin	                     admin
+American Dynamics	             admin	                     9999
+Arecont Vision	                     admin	                     <blank>
+AvertX	                             admin	                     1234
+Avigilon	                     admin	                     admin
+Avigilon	                   administrator	             <blank>
+Axis 	                             root	                     pass
+Axis	                             root	                     <blank>
+Basler	                             admin 	                     admin
+Bosch	                            <blank>	                     <blank>
+Bosch	                             service	                     service
+Bosch	                             Dinion	                     <blank>
+Brickcom	                     admin	                     admin
+Canon	                             root	                     Model# of camera
+Canon	                             root	                     camera
+CBC Ganz	                     admin	                     admin
+Cisco	                             no default	                    <blank>
+CNB	                             root	                     admin
+Costar	                             root	                     root
+Dahua	                             admin	                     admin
+Dahua	                             888888	                     888888
+Digital Watchdog	             admin	                     admin
+DRS	                             admin	                     1234
+DVTel	                             Admin	                     1234
+DynaColor	                     Admin	                     1234
+FLIR	                             admin	                     fliradmin
+FLIR	                             admin	                     admin
+Foscam	                             admin	                     <blank>
+GeoVision	                     admin	                     admin
+Grandstream	                     admin	                     admin
+GVI	                             Admin                     	     1234
+HIKVision	                     admin	                     12345
+Honeywell	                     administrator	             1234
+Honeywell	                     admin	                     1234
+IndigoVision BX/GX	             Admin	                     1234
+IndigoVision Ultra	            <blank>	                    <blank>
+Intellio	                     admin	                     admin
+Interlogix	                     admin	                     1234
+IOImage	                             admin	                     admin
+IPX-DDK	                             root	                     Admin
+IPX-DDK      	                     root	                     admin
+IQInvision	                     root	                     system
+JVC	                             admin	                     Model# of camera
+JVC	                             admin 	                     jvc
+Longse	                             admin	                     12345
+Lorex	                             admin	                     admin
+LTS Security	                     admin	                     12345
+LTS Security	                     admin	                     123456
+March Networks	                     admin	                     <blank>
+Merit Lilin Camera	             admin	                     pass
+Merit Lilin Recorder	             admin	                     1111
+Messoa	                             admin	                     Model# of camera
+Mobotix	                             admin	                     meinsm
+Northern	                     admin	                     12345
+Oncam	                             admin 	                     admin
+Panasonic	                     admin	                     12345
+Panasonic	                     admin1	                     password
+Pelco	                             admin	                     admin
+PiXORD	                             admin	                     admin
+PiXORD	                             root	                     pass
+Qsee	                             admin	                     admin
+Qsee	                             admin	                     123456
+QVIS	                             Admin	                     1234
+Reolink	                             admin	                    <blank>
+Samsung           	             root	                     4321
+Samsung	                             root	                     admin
+Samsung	                             admin	                     4321
+Samsung	                             admin	                     1111111
+Sanyo	                             admin	                     admin
+Scallop	                             admin	                     password
+Sentry360	                     Admin	                     1234
+Sentry360	                     admin	                     1234
+Sentry360	                     admin	                    <blank>
+Sony	                             admin	                     admin
+Speco	                             root	                     root
+Speco	                             admin	                     admin
+Speco	                             admin	                     1234
+StarDot	                             admin	                     admin
+Starvedia	                     admin 	                    <blank>
+Sunell	                             admin	                     admin
+SV3C 	                             admin	                     123456
+Swann	                             admin 	                     12345
+Toshiba	                             root	                     ikwb
+Trendnet	                     admin	                     admin
+Ubiquiti	                     ubnt	                     ubnt
+UDP	                             root	                     unknown
+Uniview	                             admin	                     123456
+Verint	                             admin	                     admin
+VideoIQ	                             supervisor       	             supervisor
+Vivotek	                             root	                     <blank>
+W-Box	                             admin	                     wbox123
+W-Box	                             admin	                     admin
+Wodsee	                             admin	                     <blank>
