@@ -1,0 +1,197 @@
+Static  Variables
+
+
+
+Static constructor will not have any return type and access specifier.
+
+It will be static <name of constructor> {}
+
+You cannot have more than one static constructor in classIf you have a variable which will remain the same throughout you can make it static. 
+Also make the void main also static. 
+Static members have 2 features physical and functional
+
+Dynamic Polymorphism: Runtime polymorphism
+
+Based on the decision made at runtime it will display that class.
+
+Here we have 4 classes: Employee, Lab ASSISTANT, LECTURER, ADMIN. 3 CLASSES INHERIT EMPLOYEE
+
+At runtime it determines which     E.CalculateSalary(25); TO CALL.
+
+abstract class Employee
+    {
+        protected int EmpId;
+        protected string EmpName;
+        protected double SalPerDay;
+
+        public Employee(int EmpId, string EmpName, double SalPerDay)
+        {
+            this.EmpId = EmpId;
+            this.EmpName = EmpName;
+            this.SalPerDay = SalPerDay;
+        }
+
+        public virtual void Display()
+        {
+            Console.WriteLine("EmpId : " + EmpId);
+            Console.WriteLine("EmpName : " + EmpName);
+            Console.WriteLine("Emp Sal Per Day : " + SalPerDay);
+        }
+
+        public abstract void CalculateSalary(int days);
+    }
+
+    class LabAssistant : Employee
+    {
+        protected int LabNo;
+        public LabAssistant(int EmpId, string EmpName, double SalPerDay,int LabNo):base(EmpId,EmpName,SalPerDay)
+        {
+            this.LabNo = LabNo;
+        }
+
+        public override void Display()
+        {
+            base.Display();
+            Console.WriteLine("LabNo :" + LabNo);
+        }
+
+        public override void CalculateSalary(int days)
+        {
+            double GS = SalPerDay * days;
+            Console.WriteLine("Gross Salary is :"+GS);
+        }
+    }
+
+    class Lecturer : Employee
+    {
+        protected string Sub;
+        public Lecturer(int EmpId, string EmpName, double SalPerDay, string Sub)
+            : base(EmpId, EmpName, SalPerDay)
+        {
+            this.Sub = Sub;
+        }
+
+        public override void Display()
+        {
+            base.Display();
+            Console.WriteLine("Sub :" + Sub);
+        }
+
+        public override void CalculateSalary(int days)
+        {
+            double GS = (SalPerDay * days)+((SalPerDay * days)*20/100);
+            Console.WriteLine("Gross Salary is :" + GS);
+        }
+    }
+
+    class Admin : Employee
+    {
+        
+        public Admin(int EmpId, string EmpName, double SalPerDay) : base(EmpId, EmpName, SalPerDay)
+        {
+          
+        }
+                
+        public override void CalculateSalary(int days)
+        {
+            double GS = (SalPerDay * days) + ((SalPerDay * days) * 15 / 100);
+            Console.WriteLine("Gross Salary is :" + GS);
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee E;
+            E = new LabAssistant(123, "Peter", 67.7, 34);
+
+            Console.WriteLine("Enter You Choice");
+            Console.WriteLine("1.LabAssistant 2.Lecturer 3.Admin 4.Exit");
+            int ch = int.Parse(Console.ReadLine());
+
+            switch (ch)
+            {
+                case 1:
+                    E = new LabAssistant(123, "Peter", 67.7, 34);
+                    break;
+
+                case 2:
+                    E = new Lecturer(124, "Tom", 89.6, "MS.Net");
+                    break;
+
+                case 3:
+                    E = new Admin(126, "Lilly", 45.8);
+                    break;
+
+                case 4:
+                    System.Threading.Thread.CurrentThread.Abort();
+                    break;
+
+                default:
+                    break;
+            }
+
+            E.Display();
+            E.CalculateSalary(25);
+
+            Console.ReadLine();
+        }
+    }
+========================================================================================
+
+Interfaces:
+
+
+namespace InterfaceEg
+{
+    interface A
+    {
+        void Show();
+        void Display(string msg);
+    }
+    interface B
+    {
+        void View();
+    }
+    class C:A,B
+    {
+        public void Show()
+        {
+            Console.WriteLine("This is Show Method");
+        }
+
+        public void Display(string msg)
+        {
+            Console.WriteLine("This is Display of "+msg);
+        }
+        public void View()
+        {
+            Console.WriteLine("This is View Method");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //C c = new C();
+            //c.Display("ManzoorTheTrainer");
+            //c.Show();
+            //c.View();
+            A a;
+
+            a = new C();
+            a.Display("ManzoorTheTrainer");
+            a.Show();
+            //a.View();
+
+            B b;
+            b = new C();
+            b.View();
+
+
+            Console.ReadLine();
+        }
+    }
+

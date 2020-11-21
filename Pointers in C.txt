@@ -1,0 +1,71 @@
+Pointers in C:
+
+=======================
+
+#include <stdio.h>
+
+Int main(int argc, const char *argv[])
+{
+Int var = 10;
+Int * ip;
+
+Ip = &var;
+
+Printf("Address of Variable is %x\n",&var);
+Printf("address of ip is %x\n",ip);
+Printf("value of %d\n",*ip);
+Return 0;
+
+}
+
+Output: 
+Value is 10
+
+=======================
+
+Pointer in CPP:
+
+=======================
+
+
+#include <iostream>
+Using namespace std;
+
+Int main()
+{
+   int a=10;
+   int *p=&a;
+   
+Cout<<a<<endl;
+Cout<<&a<<endl;
+Cout<<p<<endl;
+Cout<<&p<<endl;
+Cout<<*p<<endl;
+
+Return 0;
+}
+
+
+Output:
+10
+
+10
+=======================
+
+Why Pointers:
+
+ to access heap memory
+To access files: file pointer
+Cin cout use pointers
+
+Pointer in cpp:
+
+
+Pointers are used to access heap memory
+
+5 arithmetic operations are allowed on pointers:
+	• p++    moves pointer to next element
+	• p-- moves pointer to previous element
+	• p+k gives address of kth element from pointer to right
+	• p-k gives address of kth element from pointer location to left
+	• q-p  gives no of elements between 2 pointers p and q

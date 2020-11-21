@@ -1,0 +1,6 @@
+Plain Text ----Encrypted---> Cipher Text….. Sent publicly along with key ….. Cipher Text---------Decrypt----->Plain text.
+
+
+AES
+RSA
+Elliptic Curve Cryptography: Y = x pow 3 + ax +b

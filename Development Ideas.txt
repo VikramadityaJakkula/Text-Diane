@@ -1,0 +1,9 @@
+Total Cost = Development + Maintenance
+
+	Maintenance Cost = Cost of ( Understanding+Changes+Testing+Delivery)
+
+
+Dry = Don’t repeat yourself
+KISS = Keep it simple stupid
+Yagni = You aint gona Need it
+Soc = separation of concerns

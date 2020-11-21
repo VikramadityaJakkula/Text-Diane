@@ -1,0 +1,6 @@
+Multiple threads run in same process.
+A thread is a process within a process
+Diff: Multiple threads can share same variables, data sections, open file descriptors. 
+Process use diff memory and communication by 2 process is difficult.
+
+Thread is used for concurrent task execution.

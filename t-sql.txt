@@ -1,0 +1,150 @@
+Why do we have more tables: This is because if we want to update part of the table everytime, it would be easier to have the data in a separate table.
+
+
+
+SELECT:
+
+Select * from table_name;
+
+Select  coloum1, coloum2,
+From  table_name;
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+SELECT DISTINCT:
+
+Select Distinct  coloum1,coloumn2 ,…
+From   table_name
+
+-------------------------------------------------------------------------------------------------------------------
+
+WHERE CLAUSE:
+
+SELECT Column1,column2,…
+From table_name
+Where condition;
+
+Example:  Select * from customer where customerid = 1;
+
+Operator                                Description
+<>                            Not Equal
+BETWEEN               Between an range
+LIKE                          search in a range
+IN                              To Search multiple values for column
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+AND    OR    NOT  SYNTAX
+
+
+SELECT COLOUM1,coloum2,…
+ FROM  table_name
+WHERE condition1 AND condition2 AND condition 3……;
+
+
+SELECT Colomn1, Coloum2,….
+From table_name
+WHERE condition1 or condition2 or condition3….;
+
+SELECT Coloumn1,Coloumn2,….
+From table_name
+Where NOT Condition;
+
+Example:
+Select * from Customers Where Country = 'Germany'  AND (City ='Berlin' and 'Munchen');
+Select * from Customers Where Not Country='Germany' AND not Country='USA';
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ORDER BY
+
+
+Select column1, column2,……..
+FROM Table_name
+Order by column1,column2,…..  ASC|DESC;
+
+
+Example:
+Select * from customer
+Order by country ASC, CUSTOMERNAME DESC;
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+INSERT INTO
+
+INSERT INTO table_name(column1, colum2,…….)
+VALUES(values, values2,values3,values4,values5,……..);
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Select coloumn_names from table_name where coloumn_name is NOT Null 
+Select coloumn_names from table_name where coloumn_name is  Null 
+
+Example:
+Select lastname, firstname, address from persons where address is null;
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Update table_name
+SET COLUMN1 = VALUE1, COLUMN2 = VALUE2, ….
+WHERE CONDITION;
+
+
+EXAMPLE:
+Update customers
+Set contactname ='Juan'
+Where city='Mexico';
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Delete from table_name where condition;
+Delete from table_name;
+Delete * from table_name;
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Select  top 3 * from customers;
+Select top 50 percent * from customers;
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Select min(column_name) from table_name where condition;
+Select max(column_name) from table_name where condition;
+
+Example: select MIN(PRICE) as smallestprice from products;
+--------------------------------------------------------------------------------------------------------------------------------------
+SUM, AVG, COUNT …SAME AS ABOVE
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Select * from customers where country in ('Germany','France','UK');
+Not In
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ALIAS
+
+SELECT CUSTOMERNAME AS C from customers;
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+JOIN:
+
+A JOIN IS A CLAUSE USED TO COMBINE ROWS FROM TWO OR MORE TABLES BASED ON A RELATED COLUMN BETWEEN THEM.
+
+
+Select  orders.orderid, customers.customername,orders.orderdate 
+from orders
+INNER JOIN
+CUSTOMERS ON
+ORDERS.CUSTOMERID=CUSTOMERS.CUSTOMERID;
+
+Type of Joins:
+
+Inner Joins: Returns records that have match values in both tables
+Left Outer Join: Returns all the records from the left table, and the matched records from the right table
+Right outer join: Return all the reords from the right table and the matched records from the left table
+Full outer join: Return all records when the match in either left or right tables.
+

@@ -1,0 +1,60 @@
+You Have idea what to do:
+Once you have a list of ideas, you don't just go out and build them
+ A big component of the product manager mindset is being able to understand the real problems behind 
+what people ask you to build 
+If you give people what they say they want,
+ you're not always solving the actual core problem Taught by: 
+Figuring out if you are actually solving a real problem 
+Being a product manager is all about finding a solution to a problem, 
+instead of trying to fit the problem to a solution
+When someone asks you to build something, ask yourself: 
+- Is this solving an actual problem? 
+- Can this have any unintended side effects? 
+The easiest way to get to the core issues of a request is to ask "Why?"
+ for three times in a row, until people get to the real pain point
+
+
+The difference between users and customers:
+Sometimes, the people who pay for your product (customers) 
+are not the same people that use it (users) 
+Taught by: The difference between users and customers 
+There is a different kind of feedback that you will get from each category:
+ The company that buys the product will give you feedback about 
+general features that they need it to have The actual users 
+will give you feedback about technical issues they 
+encounter while actually using the product
+
+Ideas come from Employees,Metrics,Users,Clients. Product Manager is not Idea person.
+
+Two Techniques:
+
+1	Divide & Conquer:
+	Break things into smaller pieces.
+	Reduce the scope into smaller manageable pieces.
+2	One thing at a time:
+	Finish the task, but do it one thing at a time and avoid thrashing back and forth.
+	Identify all stakeholders and find how to communicate with each of them.
+	Find all risks and analyze them in separate step.
+	Build project schedule and identify critical path, review and resolve any critical paths. 
+	
+Above 2 are 2 simple techniques to simplify and manage complexity and project management process.
+
+
+
+Strategic Plan: It is a plan for 2-3 key objectives for next 3-5 years.
+
+Always ask the stakeholders if u get into a complexity to make a early decision and 
+don’t say what to do ask them do 
+you want to me to adjust the scope or cost or time? 
+Take what is stakeholders priority.
+
+
+
+First Step in project initiation is to write a One page objective and to get all the stakeholders to agree on it.
+
+Don’t do anything unless you have project stakeholders agreement on the objective. Don’t even do business case analysis.
+
+Give them a conceptual solution: Only major deliverables & Constraints.
+
+Planning: It makes the project successful.
+

@@ -1,0 +1,21 @@
+
+Pre Inc:  ++x;
+
+
+Int x=5, y;
+
+	• Y = ++x;    
+	• Here both x=6,y=6
+	•  here first ++ is done and later = is done
+	• Thus y = 6
+
+
+
+Post Inc: x++;
+
+Int x=5, y;
+
+	• Y = x++;
+	• Here x = 6, y =5
+	• First = is done hence y becomes 5 later ++ is done
+	• Thus x = 6

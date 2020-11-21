@@ -1,0 +1,199 @@
+Functions are stored in stack
+
+
+======================================CPP=========
+Pointers for object:
+
+
+Void main()
+{
+    Rectangle r;
+    rectangle *p;
+    p=&r;
+    r.length = 10;
+    p->length = 10;
+p->breadth = 5;
+Count<<p->area();
+}
+
+
+Create in HEAP:  Dynamic creation
+
+EVERY POINTER TAKES 2 BYTES , depends on compiler
+Pointer is created in stack but the object it points to is in heap
+
+Void main()
+{
+
+Rectangle *q = new rectangle;
+
+q->length = 10;
+q->breadth = 5;
+Cout<<q->area()<<endl;
+Cout<<q->perimeter()<<endl;
+}
+
+======================================CPP=========
+
+
+Data Hiding:
+
+Make variables in class private.
+
+Accessors(get) and Mutator(set):
+Create methods to set and get values, these can be public.
+Ex: getlength, getbreadth, setlength,setbreadth;
+
+======================================CPP=========
+
+Constructors:
+
+Every class has constructor.
+Constructor has same name of the class.
+
+
+Types:
+Default constructor: Done by the machine. U don’t need to write.
+Rectangle()
+{
+Length = 0;
+Breadth = 0;
+}
+
+Non parameterized constructor: No parameters
+Rectangle()
+{
+Length = 0;
+Breadth = 0;
+}
+
+Parameterized Constructors: Parameters
+Rectangle(int l,int b)
+{
+setLength(l);
+SetBreadth(b);
+}
+
+Copy Constructor:
+You go to the store and show a pen and ask shopkeeper to give similar one. This is copy constructor.
+We take by reference, so new rectangle should not be created.
+
+Rectangle( Rectangle(&rect))
+{
+Length=rect.length;
+Breadth=rect.breadth;
+}
+Declaration in void main class:  Rectangle (r2);
+
+
+
+Deep copy constructor: 
+
+Dynamic memory
+When writing copy constructor we should instantiate newly this is deep copy
+
+
+Class test
+{
+   int a;
+   Int *p;
+ 
+   test(int x)
+   {
+      a = x;
+     p = new int a[];
+   }
+
+  Test(test &t)
+  {
+      a = t.a;
+      //p = t.p;
+      p = new int[a];
+  }
+ 
+}
+
+
+Main()
+{
+ test t(5);  \\ 
+ test t2(t); \\ this should have new arry of same size p should point ot    
+                   \\ new
+}
+
+
+Close class with destructor. Garbage collector deallocates memory.
+  It releases resources used by object.
+======================================CPP=========
+
+Scope Resolution:
+
+You write method outside class using scope resolution.
+
+Int rectangle :: perimeter()
+{
+Return 2*(length+breadth);
+}
+
+======================================CPP=========
+Inline function:
+If function in class is inline function.
+If function is outside class is non-inline class
+
+If we want to make class inline we have to write function with inline keyword in class and declare it outside.
+
+Class test
+{
+
+Inline void fun2();
+}
+
+Void test::fun2()
+{
+Cout<<"inline function";
+}
+
+
+Code is not generated seperately if it is inline.
+
+======================================CPP=========
+Operator overloading with friend:
+
+Function is created outside the class but declared in class as friend.
+
+Class complex
+{
+	Friend Complex operator+(complex c1, Complex c2);
+}
+
+Complex operator+(Complex c1, Complex c2)
+{
+Complex temp;
+…
+Return temp;
+}
+
+Void main()
+{
+ Complex c1,c2,c3;
+
+C3= c1+c2;
+}
+
+======================================CPP=========
+
+Inheritance:
+
+It achieves reusability
+Features of base class will be available in derived class.
+
+
+Note: there are no interfaces in cpp, hence it is also called abstract class.Thus we have mutiple inheritence.
+
+======================================CPP=========
+
+Friend function:
+
+Friend function can also access private, protected and public variables in class which it belongs to.
+
+
